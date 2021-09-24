@@ -237,5 +237,3 @@ _Pvt_Extensions
 .fake/
 *.jfm
 
-# Agrithmics Database
-/Agrithmics.Tips.Database/Scripts/ScriptsIgnoredOnImport.sql
